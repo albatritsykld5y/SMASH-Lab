@@ -1,4 +1,8 @@
-## [4.1.0] - 2023-12-31
+## [4.1.1] - 2024-08-13
+
+* Target js_interop for Wasm support
+
+## [4.1.0] - 2024-08-01
 
 * Update dependencies
 * Update SDK version to 3.0.0
