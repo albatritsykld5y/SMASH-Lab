@@ -2,6 +2,7 @@ name: example
 description: A project that showcases usage of cached_network_image
 publish_to: none
 version: 1.0.0+1
+
 environment:
   sdk: ^3.0.0
   flutter: '>=3.10.0'
